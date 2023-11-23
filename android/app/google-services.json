@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43564823594",
+    "project_id": "practica2unidad3-a7d1d",
+    "storage_bucket": "practica2unidad3-a7d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43564823594:android:1a181c83df18fd81fcff53",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_practica2_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUZ-IVyHVsXGphK094HlC0gUmUHX9O2n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
